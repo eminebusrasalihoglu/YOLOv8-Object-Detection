@@ -5,7 +5,7 @@
 ![dataset2](https://github.com/eminebusrasalihoglu/YOLOv8-Object-Detection/assets/58669314/ef9db7eb-b87e-4e4f-b707-89cee0633ee0)
 #### 2967 pieces of data have been labeled with LabelIMG.
 ![dataset](https://github.com/eminebusrasalihoglu/YOLOv8-Object-Detection/assets/58669314/c1344654-2d7c-4dc1-97ca-4eca216c728c)
-#### Link to the Data Set = 
+#### Link to the Data Set = https://drive.google.com/drive/folders/16M0qAn0MgN04tiXPc54BroVVeq4Lb_Ly
 ## Model
 #### create train folder
 • add train data set
