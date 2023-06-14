@@ -28,6 +28,7 @@ paper
 • yolo task=detect task=detect mode=train epochs=20 optimizer='SGD' batch=16 lr0=0.001 data=data.yaml model=yolov8m.pt imgsz=640   
 ## Results
 ![yenimoralgraph](https://github.com/eminebusrasalihoglu/YOLOv8-Object-Detection/assets/58669314/e04121f6-2f50-45d8-b0a0-b24dd0d2091c)
+![matrix](https://github.com/eminebusrasalihoglu/YOLOv8-Object-Detection-Web-Application/assets/58669314/645860b9-25a8-4aac-a51c-7bb9373b8be5)
 ![ex2](https://github.com/eminebusrasalihoglu/YOLOv8-Object-Detection/assets/58669314/0e321cc9-d39b-4b5a-9c35-46f6d5c14f2b)
 ![ex](https://github.com/eminebusrasalihoglu/YOLOv8-Object-Detection/assets/58669314/bb39cd1a-bf85-4196-9d89-dfd4b05339f4)
 ![ex3](https://github.com/eminebusrasalihoglu/YOLOv8-Object-Detection/assets/58669314/87095946-9f91-45db-8cf0-6096c66b7b66)
